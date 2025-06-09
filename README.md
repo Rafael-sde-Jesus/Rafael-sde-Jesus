@@ -50,6 +50,7 @@ Me chamo Rafael Silva de Jesus, tenho 21 anos e sou natural de São Paulo. Concl
 <br/>
 <br/>
 
+<!--
 ### 📊 Estatísticas
 
 <p>
@@ -69,3 +70,4 @@ Me chamo Rafael Silva de Jesus, tenho 21 anos e sou natural de São Paulo. Concl
   />
 
 </p>
+-->
